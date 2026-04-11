@@ -8,8 +8,8 @@
 ## 🚀 Despre Mine
 Sunt un student ambițios, dedicat fuziunii dintre programare, analiza datelor și inteligența artificială. Obiectivul meu pentru 2026 este dezvoltarea unui portofoliu de **10 proiecte de înaltă complexitate** care să rezolve probleme reale prin tehnologie.
 
-* [cite_start]🏅 **Bursier ASE** - Recunoaștere academică pentru performanță[cite: 32, 45].
-* [cite_start]🏛 **SISC Member** - Implicat în colaborări cu sponsori și activități de mentoring[cite: 15, 18, 46].
+* 🏅 **Bursier ASE** - Recunoaștere academică pentru performanță.
+* 🏛 **SISC Member** - Implicat în colaborări cu sponsori și activități de mentoring.
 * 🎯 **Goal:** Masterat la **TU Wien** (Vienna University of Technology).
 
 ---
@@ -41,7 +41,7 @@ Sunt un student ambițios, dedicat fuziunii dintre programare, analiza datelor �
 <br>
 <ul>
   <li><b>Art Gallery Management System:</b> Arhitectură SQL completă pentru gestionarea galeriilor de artă (artiști, opere, clienți și tranzacții comerciale).</li>
-  [cite_start]<li><b>IBM & Google Certifications:</b> Implementări practice pentru Data Science și Machine Learning Foundations[cite: 9, 11, 13].</li>
+  [cite_start]<li><b>IBM & Google Certifications:</b> Implementări practice pentru Data Science și Machine Learning Foundations.</li>
 </ul>
 </details>
 
@@ -59,13 +59,13 @@ Sunt un student ambițios, dedicat fuziunii dintre programare, analiza datelor �
 ---
 
 ## 🎙️ Beyond Coding
-[cite_start]În timpul liber, mă dedic **producției muzicale și songwriting-ului**[cite: 48]. Consider că procesul de a compune muzică și cel de a scrie cod sunt similare: ambele necesită structură, creativitate și atenție la detalii pentru a obține o "armonie" funcțională.
+În timpul liber, mă dedic **producției muzicale și songwriting-ului**. Consider că procesul de a compune muzică și cel de a scrie cod sunt similare: ambele necesită structură, creativitate și atenție la detalii pentru a obține o "armonie" funcțională.
 
 ---
 
 ## 📫 Let's Connect!
-* [cite_start]**Email:** [andronescumihai.alex13@gmail.com](mailto:andronescumihai.alex13@gmail.com) [cite: 2]
-* [cite_start]**LinkedIn:** [Mihai-Alexandru Andronescu](https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/) [cite: 2]
+* **Email:** [andronescumihai.alex13@gmail.com](mailto:andronescumihai.alex13@gmail.com) 
+* **LinkedIn:** [Mihai-Alexandru Andronescu](https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/) 
 
 ---
 
