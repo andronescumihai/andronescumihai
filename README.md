@@ -1,73 +1,82 @@
-# Salut! Sunt Mihai-Alexandru 👋
+# 🚀 Mihai-Alexandru Andronescu | Aspiring AI & Cloud Architect
 
-### 🎓 Computer Science & Economics Student @ ASE Bucharest
-**Academic Scholarship Holder | SISC Member | Aspiring AI & Data Scientist**
-
----
-
-## 🚀 Despre Mine
-Sunt un student ambițios, dedicat fuziunii dintre programare, analiza datelor și inteligența artificială. Obiectivul meu pentru 2026 este dezvoltarea unui portofoliu de **10 proiecte de înaltă complexitate** care să rezolve probleme reale prin tehnologie.
-
-* 🏅 **Bursier ASE** - Recunoaștere academică pentru performanță.
-* 🏛 **SISC Member** - Implicat în colaborări cu sponsori și activități de mentoring.
-* 🎯 **Goal:** Masterat la **TU Wien** (Vienna University of Technology).
+### 🎓 Computer Science & Economics @ ASE Bucharest 
+**Academic Merit Scholar | SISC Member | Future MSc Candidate @ TU Wien**
 
 ---
 
-## 📂 Portofoliu Selectat
+## ⚡ Professional Profile
+I am a high-achieving Computer Science student focused on the intersection of **Autonomous AI Agents**, **Distributed Cloud Systems**, and **High-Performance Data Engineering**. My mission for 2026 is to bridge the gap between academic theory and enterprise-scale deployment by completing a rigorous roadmap of 10 advanced technical projects.
 
-<details>
-<summary><b>🤖 AI & Machine Learning (Priority Roadmap)</b></summary>
+* 🏅 **Top Tier Academic:** ASE Merit Scholarship holder for exceptional performance in Informatics.
+* 🏛️ **Student Leadership:** Active member of **SISC** (Cybernetics Students' Union), coordinating corporate sponsorships and technical mentoring.
+* 🎯 **Strategic Objective:** Transitioning to **TU Wien** for a Master’s in Artificial Intelligence, focusing on Algorithmic Complexity and Neural Architectures.
+
+---
+
+## 📂 Strategic Portfolio & Roadmap
+
+<details open>
+<summary><b>🤖 AI & Machine Learning (2026 High-Complexity Roadmap)</b></summary>
 <br>
-<i>Urmează dezvoltarea a 10 proiecte complexe, incluzând:</i>
-<ul>
-  <li><b>Fine-tuned LLM for Niche Tasks:</b> Adaptarea modelelor de limbaj pe domenii specifice.</li>
-  <li><b>RAG Application:</b> Sistem de recuperare a informațiilor peste documentații private.</li>
-  <li><b>Agentic Workflow Automation:</b> Agenți autonomi pentru eficientizarea task-urilor.</li>
-</ul>
+
+> *A specialized suite of projects focusing on Agentic workflows and Predictive Modeling.*
+
+* **AI Agentic Business Orchestrator:** Autonomous agents using LLM reasoning (LangChain/Llama) for enterprise-scale workflow automation.
+* **Neural Market Forecaster:** Advanced price prediction engine using Deep Neural Networks (TensorFlow) with Adam optimization.
+* **Real-Time Computer Vision Sentinel:** High-speed object detection pipeline leveraging **YOLO v10** and CUDA acceleration.
+* **Global Market Sentiment Analyzer:** Real-time NLP pipeline using **BERT Transformers** to quantify financial volatility.
+* **Smart Behavioral Recommender:** Matrix Factorization engine for personalized UX at scale.
 </details>
 
 <details>
-<summary><b>💻 Software Development (C# & Desktop)</b></summary>
+<summary><b>☁️ Cloud Architecture & Infrastructure (Microsoft & AWS)</b></summary>
 <br>
-<ul>
-  <li><b>Academic Resource Scheduler:</b> Sistem complex de management pentru profesori, dezvoltat în C#. Include meniuri contextuale, drag-and-drop și integrare cu baze de date pentru gestionarea programărilor.</li>
-  <li><b>Fashion History Platform:</b> Proiect web documentat despre evoluția caselor de modă și a designului vestimentar.</li>
-</ul>
+
+* **Multi-Cloud IaC Framework:** Resilient, high-availability infrastructure deployed across **Azure** and **AWS** via **Terraform**.
+* **Distributed Scalable Web Intelligence:** A Kubernetes-managed crawling engine designed for massive data indexing ($O(V+E)$ complexity).
+* **IoT Predictive Maintenance:** End-to-end ecosystem using **Azure IoT Hub** and Time Series Analysis for hardware failure forecasting.
 </details>
 
 <details>
-<summary><b>📊 Database Systems & Data Science</b></summary>
+<summary><b>💾 Database Engineering & Software Development</b></summary>
 <br>
-<ul>
-  <li><b>Art Gallery Management System:</b> Arhitectură SQL completă pentru gestionarea galeriilor de artă (artiști, opere, clienți și tranzacții comerciale).</li>
-  [cite_start]<li><b>IBM & Google Certifications:</b> Implementări practice pentru Data Science și Machine Learning Foundations.</li>
-</ul>
+
+* **Advanced PL/SQL Business Logic:** Enterprise Art Gallery system featuring stored procedures, triggers, and SYS_REFCURSOR optimization.
+* **Relational Roster Modeling:** Complex Many-to-Many SQL architecture for academic management with automated JSON ingestion.
+* **Scalable Fintech Microservices:** Decoupled .NET Core architecture using **RabbitMQ** for asynchronous event-driven logic.
+* **Blockchain Audit Ledger:** Immutable data integrity system using SHA-256 cryptographic chaining.
 </details>
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+## 🛠️ Unified Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Expert), C#, C++, PL/SQL, Assembly (x86), HTML5/CSS3 |
+| **Cloud & DevOps** | Microsoft Azure, AWS, Terraform, Docker, Kubernetes, Git/GitHub |
+| **Data & AI** | TensorFlow, Scikit-Learn, Pandas, NumPy, BeautifulSoup, OpenCV, LangChain |
+| **Databases** | Oracle DB, PostgreSQL, SQLite, MongoDB, Redis |
+| **Certifications** | Google IT Professional, IBM Data Science, IBM AI Foundations, Python for Everybody |
+
+---
+
+## 📈 Academic & Algorithmic Focus
+Preparing for **TU Wien** requires more than just code; it requires mathematical precision. All my active projects include:
+* **Complexity Analysis:** Rigorous documentation of **Big O** notation for every core algorithm.
+* **Data Normalization:** Adherence to 3NF/BCNF in relational designs.
+* **Security by Design:** Implementation of Zero Trust principles in Cloud deployments.
+
+---
+
+## 🎙️ Beyond the Console
+I believe that **Software Engineering** and **Music Production** are two sides of the same coin. As a **songwriter and music producer**, I apply the same principles of harmony, structure, and iterative debugging to my tracks as I do to my code. Both fields require a perfect balance between creative intuition and technical discipline.
+
+---
+
+<p align="center">
+  <b>Let's build the future of AI.</b><br>
+  <a href="https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/">LinkedIn</a> • 
+  <a href="mailto:andronescumihai.alex13@gmail.com">Email</a>
 </p>
-
----
-
-## 🎙️ Beyond Coding
-În timpul liber, mă dedic **producției muzicale și songwriting-ului**. Consider că procesul de a compune muzică și cel de a scrie cod sunt similare: ambele necesită structură, creativitate și atenție la detalii pentru a obține o "armonie" funcțională.
-
----
-
-## 📫 Let's Connect!
-* **Email:** [andronescumihai.alex13@gmail.com](mailto:andronescumihai.alex13@gmail.com) 
-* **LinkedIn:** [Mihai-Alexandru Andronescu](https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/) 
-
----
-
-## 📈 My Activity
-![Mihai's Stats](https://github-readme-stats.vercel.app/api?username=andronescumihai&show_icons=true&theme=tokyonight&hide_border=true)
