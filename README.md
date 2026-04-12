@@ -6,10 +6,10 @@
 ---
 
 ## ⚡ Executive Summary
-[cite_start]I am a high-achieving Computer Science student focused on the intersection of **Autonomous AI Agents**, **Distributed Cloud Systems**, and **High-Performance Data Engineering**[cite: 4, 21]. My mission for 2026 is to bridge the gap between academic theory and enterprise-scale deployment by completing a rigorous roadmap of 10 advanced technical projects.
+I am a high-achieving Computer Science student focused on the intersection of **Autonomous AI Agents**, **Distributed Cloud Systems**, and **High-Performance Data Engineering**. My mission for 2026 is to bridge the gap between academic theory and enterprise-scale deployment by completing a rigorous roadmap of 10 advanced technical projects.
 
-* [cite_start]🏅 **Academic Excellence:** ASE Merit Scholarship holder (Top of Class)[cite: 32, 45].
-* [cite_start]🏛️ **Student Leadership:** Active member of **SISC** (Cybernetics Students' Union)[cite: 15, 46].
+* 🏅 **Academic Excellence:** ASE Merit Scholarship holder (Top of Class).
+* 🏛️ **Student Leadership:** Active member of **SISC** (Cybernetics Students' Union).
 * 🎯 **Strategic Goal:** Pursuing an MSc in AI at **TU Wien** (Vienna University of Technology).
 
 ---
@@ -89,12 +89,12 @@
 ---
 
 ## 📜 Verified Certifications
-* [cite_start]**Google IT Professional Certificate** [cite: 9]
-* [cite_start]**IBM Data Science** [cite: 11]
-* [cite_start]**IBM AI Foundations for Business** [cite: 13]
-* [cite_start]**Python for Everybody** [cite: 10]
-* [cite_start]**AI for Everyone** [cite: 12]
-* [cite_start]**Mathematics for Machine Learning** [cite: 14]
+* **Google IT Professional Certificate**
+* **Python for Everybody**
+* **IBM Data Science**
+* **AI for Everyone**
+* **IBM AI Foundations for Business**
+* **Mathematics for Machine Learning**
 
 ---
 
@@ -107,7 +107,7 @@ Every project in my portfolio is built with **TU Wien** standards in mind:
 ---
 
 ## 🎙️ Beyond the Code
-[cite_start]I believe that **Software Engineering** and **Music Production** share the same DNA[cite: 48]. [cite_start]As a **songwriter and music producer**, I apply the same principles of harmony, structure, and iterative debugging to my tracks as I do to my code[cite: 48]. Both require a perfect balance between creative intuition and technical discipline.
+I believe that **Software Engineering** and **Music Production** share the same DNA. As a **songwriter and music producer**, I apply the same principles of harmony, structure, and iterative debugging to my tracks as I do to my code. Both require a perfect balance between creative intuition and technical discipline.
 
 ---
 
