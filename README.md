@@ -73,7 +73,7 @@ I am a results-oriented Computer Science student with a psychological profile de
 ## 🎙️ Personality & Soft Skills
 * **Determined & Disciplined:** 8 years of martial arts have forged a personality that thrives under pressure and views challenges as opportunities for growth.
 * **Competitive Nature:** I am driven by the desire to deliver high-status, high-impact technical results.
-* **Creative Coder:** In my free time, I bridge the gap between logic and emotion through **music production and songwriting**, treating a track like a codebase—searching for perfect harmony and efficiency.
+* **Creative Coder:** In my free time, I bridge the gap between logic and emotion through **music production and songwriting**.
 
 ---
 
