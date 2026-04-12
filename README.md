@@ -8,7 +8,7 @@
 ## ⚡ Executive Summary
 I am a results-oriented Computer Science student with a psychological profile defined by **high motivational drive and unwavering perseverance**. I don't believe in luck; I believe in deliberate effort and the mastery of complex systems. My focus lies at the intersection of **Algorithmic Rigor, Data Science, and Scalable AI Architectures**.
 
-* 🏅 **Merit Scholar:** Consistently ranked at the top of my class at ASE Bucharest.
+* 🏅 **Merit Scholar:** Awarded a full academic scholarship for the entire first year at ASE Bucharest.
 * 🥋 **Elite Discipline:** **8 years of Judo practice** have ingrained in me a resilient mindset, a high capacity for work, and the grit to overcome any technical hurdle.
 * 🎯 **Strategic Objective:** Transitioning to **TU Wien** to specialize in AI and high-stakes computational logic.
 
