@@ -1,118 +1,84 @@
-# 🚀 Mihai-Alexandru Andronescu | Aspiring AI & Cloud Architect
+# 🚀 Mihai-Alexandru Andronescu | Data-Driven & High-Performance Developer
 
-### 🎓 Computer Science & Economics @ ASE Bucharest 
-**Academic Merit Scholar | SISC Member | Future MSc Candidate @ TU Wien**
+### 🎓 Computer Science & Economics @ ASE Bucharest
+**Academic Merit Scholar | SISC Member | Judo Athlete | Future MSc Candidate @ TU Wien**
 
 ---
 
 ## ⚡ Executive Summary
-I am a high-achieving Computer Science student focused on the intersection of **Autonomous AI Agents**, **Distributed Cloud Systems**, and **High-Performance Data Engineering**. My mission for 2026 is to bridge the gap between academic theory and enterprise-scale deployment by completing a rigorous roadmap of 10 advanced technical projects.
+I am a results-oriented Computer Science student with a psychological profile defined by **high motivational drive and unwavering perseverance**. I don't believe in luck; I believe in deliberate effort and the mastery of complex systems. My focus lies at the intersection of **Algorithmic Rigor, Data Science, and Scalable AI Architectures**.
 
-* 🏅 **Academic Excellence:** ASE Merit Scholarship holder (Top of Class).
-* 🏛️ **Student Leadership:** Active member of **SISC** (Cybernetics Students' Union).
-* 🎯 **Strategic Goal:** Pursuing an MSc in AI at **TU Wien** (Vienna University of Technology).
+* 🏅 **Merit Scholar:** Consistently ranked at the top of my class at ASE Bucharest.
+* 🥋 **Elite Discipline:** **8 years of Judo practice** have ingrained in me a resilient mindset, a high capacity for work, and the grit to overcome any technical hurdle.
+* 🎯 **Strategic Objective:** Transitioning to **TU Wien** to specialize in AI and high-stakes computational logic.
 
 ---
 
-## 📂 2026 Strategic Roadmap (Summer Implementation)
+## 📂 2026 Strategic Roadmap (Commitment to Excellence)
 
 <details open>
-<summary><b>🤖 AI & Machine Learning Specialization</b></summary>
+<summary><b>🤖 Future Technical Integration (July - Sept 2026)</b></summary>
 <br>
 
-> *Focusing on Agentic workflows, Neural Architectures, and Predictive Modeling.*
+> *I am currently architecting a roadmap of 10 high-impact projects designed to master Cloud ecosystems and Agentic AI:*
 
-* **AI-Agentic-Business-Orchestrator:** An autonomous AI agent framework designed for business process orchestration, featuring LLM-based reasoning and OCR integration.
-* **Neural Market Forecaster:** Advanced price prediction engine using Deep Neural Networks with Adam optimization.
-* **Real-Time Computer Vision Sentinel:** High-speed object detection pipeline leveraging YOLO architectures and CUDA acceleration.
-* **Global Market Sentiment Analyzer:** Real-time NLP pipeline using BERT Transformers to quantify financial volatility.
-* **Smart Behavioral Recommender:** Matrix Factorization engine for personalized UX at scale.
-</details>
-
-<details>
-<summary><b>☁️ Cloud Architecture & Distributed Systems</b></summary>
-<br>
-
-* **Multi-Cloud IaC Framework:** Resilient, high-availability infrastructure deployed across **Azure** using **Terraform**.
-* **Distributed Scalable Web Intelligence:** A Kubernetes-managed crawling engine designed for massive data indexing ($O(V+E)$ complexity).
-* **IoT Predictive Maintenance:** End-to-end ecosystem using **Azure IoT Hub** for hardware failure forecasting.
-</details>
-
-<details>
-<summary><b>💾 Database Engineering & Fintech Core</b></summary>
-<br>
-
-* **Advanced PL/SQL Business Logic:** Enterprise Art Gallery system featuring stored procedures and SYS_REFCURSOR optimization.
-* **Scalable Fintech Microservices:** Decoupled architecture using asynchronous event-driven logic.
-* **Blockchain Audit Ledger:** Immutable data integrity system using SHA-256 cryptographic hashing.
+* **Agentic Business Systems:** Building autonomous reasoning agents for complex process orchestration.
+* **Deep Learning Frameworks:** Developing neural models for predictive market volatility.
+* **Cloud-Scale Migration:** Transitioning local infrastructures to **Microsoft Azure** and **AWS** for global availability.
+* **Distributed Engineering:** Implementing high-scale data crawlers within Kubernetes/Docker environments.
 </details>
 
 ---
 
-## 🛠️ Technical Stack & Ecosystem
+## 🛠️ Current Technical Stack (100% Verified)
 
-### 🚀 Languages & Core Development
+### 🚀 Core Programming & Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🧠 Data Science & Machine Learning
+### 🧠 Analytics & Machine Learning Foundations
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="SciKitLearn" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
 </p>
 
-### ☁️ Cloud, DevOps & Infrastructure
+### 🗄️ Database Management & Version Control
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🗄️ Database Engines & Persistence
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
 ---
 
-## 📜 Verified Certifications
+## 📜 Professional Credentials
 * **Google IT Professional Certificate**
-* **Python for Everybody**
-* **IBM Data Science**
-* **AI for Everyone**
+* **Python for Everybody (University of Michigan)**
+* **IBM Data Science Specialization**
+* **Mathematics for Machine Learning (Imperial College London)**
+* **AI for Everyone (DeepLearning.AI)**
 * **IBM AI Foundations for Business**
-* **Mathematics for Machine Learning**
 
 ---
 
-## 📉 Algorithmic & Mathematical Rigor
-Every project in my portfolio is built with **TU Wien** standards in mind:
-* **Computational Complexity:** Detailed **Big O** analysis for all core algorithms.
-* **Architectural Integrity:** Adherence to BCNF normalization and SOLID principles.
-* **System Resilience:** Implementation of Circuit Breaker patterns.
-
----
-
-## 🎙️ Beyond the Code
-I believe that **Software Engineering** and **Music Production** share the same DNA. As a **songwriter and music producer**, I apply the same principles of harmony, structure, and iterative debugging to my tracks as I do to my code. Both require a perfect balance between creative intuition and technical discipline.
+## 🎙️ Personality & Soft Skills
+* **Determined & Disciplined:** 8 years of martial arts have forged a personality that thrives under pressure and views challenges as opportunities for growth.
+* **Competitive Nature:** I am driven by the desire to deliver high-status, high-impact technical results.
+* **Creative Coder:** In my free time, I bridge the gap between logic and emotion through **music production and songwriting**, treating a track like a codebase—searching for perfect harmony and efficiency.
 
 ---
 
 <p align="center">
-  <b>Let's build the future of AI.</b><br>
+  <b>Focused on the goal. Committed to the process.</b><br>
   <a href="https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/">LinkedIn</a> • 
   <a href="mailto:andronescumihai.alex13@gmail.com">Email</a>
 </p>
