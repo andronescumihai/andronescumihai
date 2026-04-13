@@ -10,7 +10,7 @@ I am a results-oriented Computer Science student with a psychological profile de
 
 * 🏅 **Merit Scholar:** Awarded a full academic scholarship for the entire first year at ASE Bucharest.
 * 🥋 **Elite Discipline:** **8 years of Judo practice** have ingrained in me a resilient mindset, a high capacity for work, and the grit to overcome any technical hurdle.
-* 🎯 **Strategic Objective: Transitioning to FH Technikum Wien to specialize in AI Engineering and scalable business-driven architectures.
+* 🎯 **Strategic Objective:** Transitioning to FH Technikum Wien to specialize in AI Engineering and scalable business-driven architectures.
 
 ---
 
