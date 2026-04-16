@@ -40,6 +40,8 @@ I am a results-oriented Computer Science student with a psychological profile de
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
 </p>
 
 ### 🧠 Analytics & Machine Learning Foundations
