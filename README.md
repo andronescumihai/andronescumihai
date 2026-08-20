@@ -40,12 +40,14 @@ My next step is a **Master's in Artificial Intelligence**, with a focus on appli
 ## Featured Projects
 
 ### [AI Agentic Business Orchestrator](https://github.com/andronescumihai/AI-Agentic-Business-Orchestrator)
-A multi-agent system that automates the operations of an appointments business (email triage, database-verified booking, financial reporting), coordinated by a LangGraph state machine.
+A multi-agent system that handles the everyday work of an appointments business: sorting incoming emails, booking appointments, and putting together basic financial reports. The agents are tied together by a LangGraph state machine.
 
-- Core principle: **"AI decides, code verifies."** No critical action is taken on the model's word alone.
-- Human-in-the-loop escalation on low model confidence; fail-safe handling of malformed output.
-- Real access control with **Postgres Row-Level Security** (owner / doctor / client tiers).
-- Real Gmail (OAuth2) integration routed through the same classification pipeline.
+A few things I paid attention to while building it:
+
+- The AI only suggests. The code checks before anything real happens, so it won't confirm a booking just because the model said so; it verifies the slot against the database first.
+- If the model isn't confident, or its answer comes back malformed, the request is handed to a human instead of being guessed.
+- Data is locked down at the database level with **Postgres Row-Level Security**, so the owner, a doctor and a client each see only what's theirs.
+- It also connects to a real Gmail inbox over OAuth2 and runs those messages through the same logic.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
