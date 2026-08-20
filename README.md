@@ -1,12 +1,12 @@
 <h1 align="center">Mihai-Alexandru Andronescu</h1>
 
 <p align="center">
-  <b>Software Developer — AI, Data &amp; Full-Stack</b><br>
+  <b>Software Developer · AI, Data &amp; Full-Stack</b><br>
   Computer Science &amp; Economics (Economic Informatics) @ ASE Bucharest
 </p>
 
 <p align="center">
-  I build end-to-end AI systems and web applications — and I ship them.<br>
+  I build end-to-end AI systems and web applications, and I ship them.<br>
   Currently targeting a Master's degree in Artificial Intelligence.
 </p>
 
@@ -26,13 +26,13 @@
 
 I'm an **Economic Informatics (Cybernetics)** student at the **Bucharest University of Economic Studies (ASE)**, working at the intersection of software engineering, applied AI, and data.
 
-I care about building *complete* projects — from multi-agent AI systems to deployed full-stack applications — and documenting them honestly, including their limitations. I'd rather ship one real, working product than list ten I haven't built.
+I care about building complete projects, from multi-agent AI systems to deployed full-stack applications, and documenting them honestly, including their limitations. I'd rather ship one real, working product than list ten I haven't built.
 
 My next step is a **Master's in Artificial Intelligence**, with a focus on applied AI engineering that creates measurable value for businesses.
 
-- 🎓 BSc Economic Informatics @ ASE Bucharest — academic merit scholar
+- 🎓 BSc Economic Informatics @ ASE Bucharest (academic merit scholar)
 - 🧠 Focus: AI engineering, data pipelines, full-stack development
-- 🚀 Building & shipping — 3 projects currently deployed live on Vercel
+- 🚀 Building &amp; shipping: 3 projects currently deployed live on Vercel
 - 🌍 Open to internships and junior developer / AI roles
 
 ---
@@ -42,10 +42,10 @@ My next step is a **Master's in Artificial Intelligence**, with a focus on appli
 ### [AI Agentic Business Orchestrator](https://github.com/andronescumihai/AI-Agentic-Business-Orchestrator)
 A multi-agent system that automates the operations of an appointments business (email triage, database-verified booking, financial reporting), coordinated by a LangGraph state machine.
 
-- Core principle: **"AI decides, code verifies"** — no critical action is taken on the model's word alone
-- Human-in-the-loop escalation on low model confidence; fail-safe handling of malformed output
-- Real access control with **Postgres Row-Level Security** (owner / doctor / client tiers)
-- Real Gmail (OAuth2) integration routed through the same classification pipeline
+- Core principle: **"AI decides, code verifies."** No critical action is taken on the model's word alone.
+- Human-in-the-loop escalation on low model confidence; fail-safe handling of malformed output.
+- Real access control with **Postgres Row-Level Security** (owner / doctor / client tiers).
+- Real Gmail (OAuth2) integration routed through the same classification pipeline.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -56,7 +56,7 @@ A multi-agent system that automates the operations of an appointments business (
 </p>
 
 ### [Global Market Sentiment Analyzer](https://github.com/andronescumihai/Global-Market-Sentiment-Analyzer) &nbsp;·&nbsp; 🟢 Live
-A full-stack pipeline that aggregates news and social data to score market sentiment for financial assets, comparing several models on the same metrics — deployed live on Vercel.
+A full-stack pipeline that aggregates news and social data to score market sentiment for financial assets, comparing several models on the same metrics. Deployed live on Vercel.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -67,7 +67,7 @@ A full-stack pipeline that aggregates news and social data to score market senti
 </p>
 
 ### [Neural Automobile Market Forecaster](https://github.com/andronescumihai/Neural-Automobile-Market-Forecaster) &nbsp;·&nbsp; 🟢 Live
-A deep-learning model (Keras MLP) that predicts used-car price and depreciation, trained on **~620,000 real listings** — R² ≈ **0.89** on price — with a live inference dashboard.
+A deep-learning model (Keras MLP) that predicts used-car price and depreciation, trained on **~620,000 real listings** (R² ≈ **0.89** on price), with a live inference dashboard.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -88,7 +88,7 @@ A movie recommender that trains and compares **7 models** (collaborative filteri
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-> **Also on this profile:** relational database systems (Oracle SQL / PL-SQL, Oracle APEX), Python data pipelines & web scrapers, and private client work — a live restaurant website and a legal-study application.
+> **Also on this profile:** relational database systems (Oracle SQL / PL-SQL, Oracle APEX), Python data pipelines &amp; web scrapers, and private client work, including a live restaurant website and a legal-study application.
 
 ---
 
@@ -147,8 +147,8 @@ A movie recommender that trains and compares **7 models** (collaborative filteri
 
 ## What I'm Working On
 
-- 🤖 Finishing two more AI projects to round out my portfolio (deep-learning & computer-vision)
-- ☁️ Pursuing an **AWS certification** to strengthen my cloud & deployment skills
+- 🤖 Finishing two more AI projects to round out my portfolio (deep-learning &amp; computer-vision)
+- ☁️ Pursuing an **AWS certification** to strengthen my cloud &amp; deployment skills
 - 💼 Building websites, apps and automations for small businesses through my own freelance work
 - 🎯 Preparing my application for a **Master's in Artificial Intelligence**
 
@@ -156,37 +156,43 @@ A movie recommender that trains and compares **7 models** (collaborative filteri
 
 ## Education &amp; Experience
 
-- **BSc Economic Informatics (Cybernetics)** — ASE Bucharest · academic merit scholarship
-- **UI/UX Internship** — Ideologiq (2026): user-persona analysis, GDPR compliance, front-end work
-- **Oracle Tech Bootcamp** — Oracle APEX, SQL, relational data modeling, secure cloud architecture
-- **Member** — Cybernetics Students' Union (SISC), ASE
+- **BSc Economic Informatics (Cybernetics)**, ASE Bucharest · academic merit scholarship
+- **UI/UX Internship**, Ideologiq (2026): user-persona analysis, GDPR compliance, front-end work
+- **Oracle Tech Bootcamp**: Oracle APEX, SQL, relational data modeling, secure cloud architecture
+- **Member**, Cybernetics Students' Union (SISC), ASE
 
 ---
 
 ## Certifications
 
 - **IBM Data Science Specialization**
-- **Mathematics for Machine Learning** — Imperial College London
-- **Python for Everybody** — University of Michigan
+- **Mathematics for Machine Learning**, Imperial College London
+- **Python for Everybody**, University of Michigan
 - **Google IT Professional Certificate**
-- **AI for Everyone** — DeepLearning.AI
+- **AI for Everyone**, DeepLearning.AI
 - **IBM AI Foundations for Business**
 - *In progress:* **AWS certification**
 
 ---
 
-## GitHub Stats
+## Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andronescumihai&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andronescumihai&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/badge/Public_Repos-29-0A66C2?style=for-the-badge" alt="Repos" />
+  <img src="https://img.shields.io/badge/Featured_AI_Projects-4-6C3FC6?style=for-the-badge" alt="AI Projects" />
+  <img src="https://img.shields.io/badge/Live_on_Vercel-3-2E9E6B?style=for-the-badge" alt="Live" />
+  <img src="https://img.shields.io/badge/Data_Points_Trained-1M%2B-F2B705?style=for-the-badge&logoColor=black" alt="Data" />
+</p>
+
+<p align="center">
+  From multi-agent AI systems to deployed full-stack web apps, built and shipped end to end.
 </p>
 
 ---
 
 ## What I'm Looking For
 
-Junior **Software Developer / AI / Data** roles and internships where I can build real products, keep learning fast, and contribute from day one — on-site, hybrid, or remote.
+Junior **Software Developer / AI / Data** roles and internships where I can build real products, keep learning fast, and contribute from day one, whether on-site, hybrid, or remote.
 
 **Beyond code:** eight years of judo (discipline over luck), and I produce music in my spare time.
 
