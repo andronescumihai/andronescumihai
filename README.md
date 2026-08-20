@@ -44,12 +44,12 @@ My next step is a **Master's in Artificial Intelligence**, with a focus on appli
 ### [AI Agentic Business Orchestrator](https://github.com/andronescumihai/AI-Agentic-Business-Orchestrator)
 A multi-agent system that handles the everyday work of an appointments business: sorting incoming emails, booking appointments, and putting together basic financial reports. The agents are tied together by a LangGraph state machine.
 
-A few things I paid attention to while building it:
+Some of the design decisions I made:
 
-- The AI only suggests. The code checks before anything real happens, so it won't confirm a booking just because the model said so; it verifies the slot against the database first.
-- If the model isn't confident, or its answer comes back malformed, the request is handed to a human instead of being guessed.
-- Data is locked down at the database level with **Postgres Row-Level Security**, so the owner, a doctor and a client each see only what's theirs.
-- It also connects to a real Gmail inbox over OAuth2 and runs those messages through the same logic.
+- I built the agents so they can propose an action but never carry one out on their own. Before a booking is confirmed, my code validates the slot against the database, so nothing gets written on a guess.
+- When an agent isn't confident, or its output comes back malformed, I route the request to a human instead of letting it act.
+- I locked access down at the database level with **Postgres Row-Level Security**, so the owner, a doctor and a client each see only what's theirs.
+- I connected it to a real Gmail inbox over OAuth2 and ran those messages through the same pipeline I designed for the rest.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -215,3 +215,4 @@ Junior **Software Developer / AI / Data** roles and internships where I can buil
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
