@@ -1,86 +1,200 @@
-# 🚀 Mihai-Alexandru Andronescu | Data-Driven & High-Performance Developer
-
-### 🎓 Computer Science & Economics @ ASE Bucharest
-**Academic Merit Scholar | SISC Member | Judo Athlete | Future MSc Candidate @ FH Technikum Wien**
-
----
-
-## ⚡ Executive Summary
-I am a results-oriented Computer Science student with a psychological profile defined by **high motivational drive and unwavering perseverance**. I don't believe in luck; I believe in deliberate effort and the mastery of complex systems. My focus lies at the intersection of **Algorithmic Rigor, Data Science, and Scalable AI Architectures**.
-
-* 🏅 **Merit Scholar:** Awarded a full academic scholarship for the entire first year at ASE Bucharest.
-* 🥋 **Elite Discipline:** **8 years of Judo practice** have ingrained in me a resilient mindset, a high capacity for work, and the grit to overcome any technical hurdle.
-* 🎯 **Strategic Objective:** Transitioning to FH Technikum Wien to specialize in AI Engineering and scalable business-driven architectures.
-
----
-
-## 📂 2026 Strategic Roadmap (Commitment to Excellence)
-
-<details open>
-<summary><b>🤖 Future Technical Integration (July - Sept 2026)</b></summary>
-<br>
-
-> *I am currently architecting a roadmap of 10 high-impact projects designed to master Cloud ecosystems and Agentic AI:*
-
-* **Agentic Business Systems:** Building autonomous reasoning agents for complex process orchestration.
-* **Deep Learning Frameworks:** Developing neural models for predictive market volatility.
-* **Cloud-Scale Migration:** Transitioning local infrastructures to **Microsoft Azure** and **AWS** for global availability.
-* **Distributed Engineering:** Implementing high-scale data crawlers within Kubernetes/Docker environments.
-</details>
-
----
-
-## 🛠️ Current Technical Stack (100% Verified)
-
-### 🚀 Core Programming & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
-</p>
-
-### 🧠 Analytics & Machine Learning Foundations
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="SciKitLearn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-</p>
-
-### 🗄️ Database Management & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## 📜 Professional Credentials
-* **Google IT Professional Certificate**
-* **Python for Everybody (University of Michigan)**
-* **IBM Data Science Specialization**
-* **Mathematics for Machine Learning (Imperial College London)**
-* **AI for Everyone (DeepLearning.AI)**
-* **IBM AI Foundations for Business**
-
----
-
-## 🎙️ Personality & Soft Skills
-* **Determined & Disciplined:** 8 years of martial arts have forged a personality that thrives under pressure and views challenges as opportunities for growth.
-* **Competitive Nature:** I am driven by the desire to deliver high-status, high-impact technical results.
-* **Creative Coder:** In my free time, I bridge the gap between logic and emotion through **music production and songwriting**.
-
----
+<h1 align="center">Mihai-Alexandru Andronescu</h1>
 
 <p align="center">
-  <b>Focused on the goal. Committed to the process.</b><br>
-  <a href="https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/">LinkedIn</a> • 
-  <a href="mailto:andronescumihai.alex13@gmail.com">Email</a>
+  <b>Software Developer — AI, Data &amp; Full-Stack</b><br>
+  Computer Science &amp; Economics (Economic Informatics) @ ASE Bucharest
+</p>
+
+<p align="center">
+  I build end-to-end AI systems and web applications — and I ship them.<br>
+  Currently targeting a Master's degree in Artificial Intelligence.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andronescumihai.alex13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=andronescumihai&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views" />
+</p>
+
+---
+
+## About Me
+
+I'm an **Economic Informatics (Cybernetics)** student at the **Bucharest University of Economic Studies (ASE)**, working at the intersection of software engineering, applied AI, and data.
+
+I care about building *complete* projects — from multi-agent AI systems to deployed full-stack applications — and documenting them honestly, including their limitations. I'd rather ship one real, working product than list ten I haven't built.
+
+My next step is a **Master's in Artificial Intelligence**, with a focus on applied AI engineering that creates measurable value for businesses.
+
+- 🎓 BSc Economic Informatics @ ASE Bucharest — academic merit scholar
+- 🧠 Focus: AI engineering, data pipelines, full-stack development
+- 🚀 Building & shipping — 3 projects currently deployed live on Vercel
+- 🌍 Open to internships and junior developer / AI roles
+
+---
+
+## Featured Projects
+
+### [AI Agentic Business Orchestrator](https://github.com/andronescumihai/AI-Agentic-Business-Orchestrator)
+A multi-agent system that automates the operations of an appointments business (email triage, database-verified booking, financial reporting), coordinated by a LangGraph state machine.
+
+- Core principle: **"AI decides, code verifies"** — no critical action is taken on the model's word alone
+- Human-in-the-loop escalation on low model confidence; fail-safe handling of malformed output
+- Real access control with **Postgres Row-Level Security** (owner / doctor / client tiers)
+- Real Gmail (OAuth2) integration routed through the same classification pipeline
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+</p>
+
+### [Global Market Sentiment Analyzer](https://github.com/andronescumihai/Global-Market-Sentiment-Analyzer) &nbsp;·&nbsp; 🟢 Live
+A full-stack pipeline that aggregates news and social data to score market sentiment for financial assets, comparing several models on the same metrics — deployed live on Vercel.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+### [Neural Automobile Market Forecaster](https://github.com/andronescumihai/Neural-Automobile-Market-Forecaster) &nbsp;·&nbsp; 🟢 Live
+A deep-learning model (Keras MLP) that predicts used-car price and depreciation, trained on **~620,000 real listings** — R² ≈ **0.89** on price — with a live inference dashboard.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+### [Smart User Behavior Recommender](https://github.com/andronescumihai/Smart-User-Behavior-Recommender) &nbsp;·&nbsp; 🟢 Live
+A movie recommender that trains and compares **7 models** (collaborative filtering, matrix factorization, and more) on **1,000,000+ real MovieLens ratings**, evaluated on the same metrics.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+> **Also on this profile:** relational database systems (Oracle SQL / PL-SQL, Oracle APEX), Python data pipelines & web scrapers, and private client work — a live restaurant website and a legal-study application.
+
+---
+
+## Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### AI &amp; Data
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+### Web &amp; Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### Databases &amp; Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## What I'm Working On
+
+- 🤖 Finishing two more AI projects to round out my portfolio (deep-learning & computer-vision)
+- ☁️ Pursuing an **AWS certification** to strengthen my cloud & deployment skills
+- 💼 Building websites, apps and automations for small businesses through my own freelance work
+- 🎯 Preparing my application for a **Master's in Artificial Intelligence**
+
+---
+
+## Education &amp; Experience
+
+- **BSc Economic Informatics (Cybernetics)** — ASE Bucharest · academic merit scholarship
+- **UI/UX Internship** — Ideologiq (2026): user-persona analysis, GDPR compliance, front-end work
+- **Oracle Tech Bootcamp** — Oracle APEX, SQL, relational data modeling, secure cloud architecture
+- **Member** — Cybernetics Students' Union (SISC), ASE
+
+---
+
+## Certifications
+
+- **IBM Data Science Specialization**
+- **Mathematics for Machine Learning** — Imperial College London
+- **Python for Everybody** — University of Michigan
+- **Google IT Professional Certificate**
+- **AI for Everyone** — DeepLearning.AI
+- **IBM AI Foundations for Business**
+- *In progress:* **AWS certification**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andronescumihai&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andronescumihai&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+---
+
+## What I'm Looking For
+
+Junior **Software Developer / AI / Data** roles and internships where I can build real products, keep learning fast, and contribute from day one — on-site, hybrid, or remote.
+
+**Beyond code:** eight years of judo (discipline over luck), and I produce music in my spare time.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andronescumihai.alex13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
