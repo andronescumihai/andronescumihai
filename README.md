@@ -28,6 +28,8 @@ I'm an **Economic Informatics (Cybernetics)** student at the **Bucharest Univers
 
 I care about building complete projects, from multi-agent AI systems to deployed full-stack applications, and documenting them honestly, including their limitations. I'd rather ship one real, working product than list ten I haven't built.
 
+I like owning a project from end to end: I come up with the idea, design the data model, handle the security, wire up the API integrations, and build the interface, all the way through to deployment. My background in Economic Informatics means I actually understand how the pieces fit together, not just how to make them run.
+
 My next step is a **Master's in Artificial Intelligence**, with a focus on applied AI engineering that creates measurable value for businesses.
 
 - 🎓 BSc Economic Informatics @ ASE Bucharest (academic merit scholar)
@@ -90,7 +92,14 @@ A movie recommender that trains and compares **7 models** (collaborative filteri
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-> **Also on this profile:** relational database systems (Oracle SQL / PL-SQL, Oracle APEX), Python data pipelines &amp; web scrapers, and private client work, including a live restaurant website and a legal-study application.
+### Private &amp; Client Work
+
+Not everything I build is public. Two projects I'm especially proud of:
+
+- **Italian restaurant website** (live): a custom site with a product catalog backed by a database and smooth animations. I designed it, wired up the database, and built it to load fast and rank well on Google. It stays private because it holds a client's data.
+- **Law study app** (built for a friend studying law): a personal tool for Romanian legislation. I built it to keep a database of the current laws that refreshes every week, generate practice tests, and explain any law or term in four different styles, so she can revise the way that suits her best. Private, since it's tailored to one person.
+
+> My public repositories also include relational database systems (Oracle SQL / PL-SQL, Oracle APEX) and several Python data pipelines and web scrapers.
 
 ---
 
