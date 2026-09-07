@@ -1,15 +1,12 @@
 <h1 align="center">Mihai-Alexandru Andronescu</h1>
-
 <p align="center">
   <b>Software Developer · AI, Data &amp; Full-Stack</b><br>
   Computer Science &amp; Economics (Economic Informatics) @ ASE Bucharest
 </p>
-
 <p align="center">
   I build end-to-end AI systems and web applications, and I ship them.<br>
   Currently targeting a Master's degree in Artificial Intelligence.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mihai-alexandru-andronescu-58792b33b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -71,7 +68,7 @@ A full-stack pipeline that aggregates news and social data to score market senti
 </p>
 
 ### [Neural Automobile Market Forecaster](https://github.com/andronescumihai/Neural-Automobile-Market-Forecaster) &nbsp;·&nbsp; 🟢 Live
-A deep-learning model (Keras MLP) that predicts used-car price and depreciation, trained on **~620,000 real listings** (R² ≈ **0.89** on price), with a live inference dashboard.
+A deep-learning model (Keras MLP) that predicts used-car price and depreciation, trained on **~620,000 real listings** (R² ≈ **0.917** on price, MAE ≈ **$1,784**), with a live inference dashboard.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -158,8 +155,8 @@ Not everything I build is public. Two projects I'm especially proud of:
 
 ## What I'm Working On
 
-- 🤖 Finishing two more AI projects to round out my portfolio (deep-learning &amp; computer-vision)
-- ☁️ Pursuing an **AWS certification** to strengthen my cloud &amp; deployment skills
+- 🧠 Just completed the **DeepLearning.AI TensorFlow Developer Professional Certificate**
+- 🤖 Building more AI projects to deepen my deep-learning &amp; computer-vision portfolio
 - 💼 Building websites, apps and automations for small businesses through my own freelance work
 - 🎯 Preparing my application for a **Master's in Artificial Intelligence**
 
@@ -176,13 +173,14 @@ Not everything I build is public. Two projects I'm especially proud of:
 
 ## Certifications
 
+- **DeepLearning.AI TensorFlow Developer Professional Certificate**
 - **IBM Data Science Specialization**
 - **Mathematics for Machine Learning**, Imperial College London
 - **Python for Everybody**, University of Michigan
 - **Google IT Professional Certificate**
 - **AI for Everyone**, DeepLearning.AI
 - **IBM AI Foundations for Business**
-- *In progress:* **AWS certification**
+- *Planned:* **AWS certification**
 
 ---
 
@@ -215,4 +213,3 @@ Junior **Software Developer / AI / Data** roles and internships where I can buil
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
