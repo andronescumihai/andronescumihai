@@ -31,7 +31,7 @@ My next step is a **Master's in Artificial Intelligence**, with a focus on appli
 
 - 🎓 BSc Economic Informatics @ ASE Bucharest (academic merit scholar)
 - 🧠 Focus: AI engineering, data pipelines, full-stack development
-- 🚀 Building &amp; shipping: 3 projects currently deployed live on Vercel
+- 🚀 Building &amp; shipping: 4 projects currently deployed live on Vercel
 - 🌍 Open to internships and junior developer / AI roles
 
 ---
@@ -78,6 +78,17 @@ A deep-learning model (Keras MLP) that predicts used-car price and depreciation,
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
+### [RealTime Object Detection Sentinel](https://github.com/andronescumihai/RealTime-Object-Detection-Sentinel) &nbsp;·&nbsp; 🟢 Live
+A browser-based real-time computer vision app: a pre-trained CNN (COCO-SSD / MobileNetV2) runs fully client-side in TensorFlow.js on your webcam or an uploaded image, drawing bounding boxes with confidence scores. Includes a **Sentinel** watch-a-class alert mode, a live analytics dashboard, and a **privacy-first** design, no video ever leaves the device. Deployed live on Vercel.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
 ### [Smart User Behavior Recommender](https://github.com/andronescumihai/Smart-User-Behavior-Recommender) &nbsp;·&nbsp; 🟢 Live
 A movie recommender that trains and compares **7 models** (collaborative filtering, matrix factorization, and more) on **1,000,000+ real MovieLens ratings**, evaluated on the same metrics.
 
@@ -93,7 +104,7 @@ A movie recommender that trains and compares **7 models** (collaborative filteri
 
 Not everything I build is public. Two projects I'm especially proud of:
 
-- **Italian restaurant website** (live): a custom site with a product catalog backed by a database and smooth animations. I designed it, wired up the database, and built it to load fast and rank well on Google. It stays private because it holds a client's data.
+- **Italian restaurant website** ([live](https://agatinogourmet.com)): a custom site with a product catalog backed by a database and smooth animations. I designed it, wired up the database, and built it to load fast and rank well on Google. The repository stays private because it holds a client's data.
 - **Law study app** (built for a friend studying law): a personal tool for Romanian legislation. I built it to keep a database of the current laws that refreshes every week, generate practice tests, and explain any law or term in four different styles, so she can revise the way that suits her best. Private, since it's tailored to one person.
 
 > My public repositories also include relational database systems (Oracle SQL / PL-SQL, Oracle APEX) and several Python data pipelines and web scrapers.
@@ -121,7 +132,7 @@ Not everything I build is public. Two projects I'm especially proud of:
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
@@ -188,8 +199,8 @@ Not everything I build is public. Two projects I'm especially proud of:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public_Repos-29-0A66C2?style=for-the-badge" alt="Repos" />
-  <img src="https://img.shields.io/badge/Featured_AI_Projects-4-6C3FC6?style=for-the-badge" alt="AI Projects" />
-  <img src="https://img.shields.io/badge/Live_on_Vercel-3-2E9E6B?style=for-the-badge" alt="Live" />
+  <img src="https://img.shields.io/badge/Featured_AI_Projects-5-6C3FC6?style=for-the-badge" alt="AI Projects" />
+  <img src="https://img.shields.io/badge/Live_on_Vercel-4-2E9E6B?style=for-the-badge" alt="Live" />
   <img src="https://img.shields.io/badge/Data_Points_Trained-1M%2B-F2B705?style=for-the-badge&logoColor=black" alt="Data" />
 </p>
 
