@@ -31,7 +31,7 @@ My next step is a **Master's in Artificial Intelligence**, with a focus on appli
 
 - 🎓 BSc Economic Informatics @ ASE Bucharest (academic merit scholar)
 - 🧠 Focus: AI engineering, data pipelines, full-stack development
-- 🚀 Building &amp; shipping: 4 projects currently deployed live on Vercel
+- 🚀 Building &amp; shipping: 5 projects currently deployed live on Vercel
 - 🌍 Open to internships and junior developer / AI roles
 
 ---
@@ -86,6 +86,17 @@ A browser-based real-time computer vision app: a pre-trained CNN (COCO-SSD / Mob
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+### [Immutable Audit Log](https://github.com/andronescumihai/Blockchain-Immutable-Audit-Log) &nbsp;·&nbsp; 🟢 Live
+A tamper-evident audit ledger built on the core primitives of blockchain — **SHA-256 hash-chaining, Proof-of-Work, and Merkle trees** — with a live tamper demo that lets you edit a buried block and watch the whole chain turn red. Full-stack Next.js/TypeScript with a Neon Postgres backend, Zod validation, rate limiting, CSP/security headers, and **70+ unit tests**. Honest about being a single-node demonstration, not a distributed network.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
@@ -159,6 +170,7 @@ Not everything I build is public. Two projects I'm especially proud of:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -167,7 +179,7 @@ Not everything I build is public. Two projects I'm especially proud of:
 ## What I'm Working On
 
 - 🧠 Just completed the **DeepLearning.AI TensorFlow Developer Professional Certificate**
-- 🤖 Building more AI projects to deepen my deep-learning &amp; computer-vision portfolio
+- 🤖 Building more real projects across AI, computer vision, and applied cryptography / security
 - 💼 Building websites, apps and automations for small businesses through my own freelance work
 - 🎯 Preparing my application for a **Master's in Artificial Intelligence**
 
@@ -199,8 +211,8 @@ Not everything I build is public. Two projects I'm especially proud of:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public_Repos-29-0A66C2?style=for-the-badge" alt="Repos" />
-  <img src="https://img.shields.io/badge/Featured_AI_Projects-5-6C3FC6?style=for-the-badge" alt="AI Projects" />
-  <img src="https://img.shields.io/badge/Live_on_Vercel-4-2E9E6B?style=for-the-badge" alt="Live" />
+  <img src="https://img.shields.io/badge/Featured_Projects-6-6C3FC6?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/Live_on_Vercel-5-2E9E6B?style=for-the-badge" alt="Live" />
   <img src="https://img.shields.io/badge/Data_Points_Trained-1M%2B-F2B705?style=for-the-badge&logoColor=black" alt="Data" />
 </p>
 
