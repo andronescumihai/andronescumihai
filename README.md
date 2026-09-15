@@ -31,12 +31,23 @@ My next step is a **Master's in Artificial Intelligence**, with a focus on appli
 
 - 🎓 BSc Economic Informatics @ ASE Bucharest (academic merit scholar)
 - 🧠 Focus: AI engineering, data pipelines, full-stack development
-- 🚀 Building &amp; shipping: 5 projects currently deployed live on Vercel
+- 🚀 Building &amp; shipping: 6 projects currently deployed live on Vercel
 - 🌍 Open to internships and junior developer / AI roles
 
 ---
 
 ## Featured Projects
+
+### [OceanScope 3D Ocean Explorer](https://github.com/andronescumihai/oceanscope-3d-explorer) &nbsp;·&nbsp; 🟢 Live
+An interactive 3D globe of Earth's oceans: click or search any point on the water and a glassmorphism panel opens with real-time marine weather, seafloor depth, and marine-life records, all pulled server-side from free, public datasets (Open-Meteo, GEBCO via Open Topo Data, OBIS, NASA Blue Marble). Two modes (Educational / Sailor), graceful degradation when a source is unavailable, input validation, and security headers. Deployed live on Vercel.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 ### [AI Agentic Business Orchestrator](https://github.com/andronescumihai/AI-Agentic-Business-Orchestrator)
 A multi-agent system that handles the everyday work of an appointments business: sorting incoming emails, booking appointments, and putting together basic financial reports. The agents are tied together by a LangGraph state machine.
@@ -90,7 +101,7 @@ A browser-based real-time computer vision app: a pre-trained CNN (COCO-SSD / Mob
 </p>
 
 ### [Immutable Audit Log](https://github.com/andronescumihai/Blockchain-Immutable-Audit-Log) &nbsp;·&nbsp; 🟢 Live
-A tamper-evident audit ledger built on the core primitives of blockchain — **SHA-256 hash-chaining, Proof-of-Work, and Merkle trees** — with a live tamper demo that lets you edit a buried block and watch the whole chain turn red. Full-stack Next.js/TypeScript with a Neon Postgres backend, Zod validation, rate limiting, CSP/security headers, and **70+ unit tests**. Honest about being a single-node demonstration, not a distributed network.
+A tamper-evident audit ledger built on the core primitives of blockchain, **SHA-256 hash-chaining, Proof-of-Work, and Merkle trees**, with a live tamper demo that lets you edit a buried block and watch the whole chain turn red. Full-stack Next.js/TypeScript with a Neon Postgres backend, Zod validation, rate limiting, CSP/security headers, and **70+ unit tests**. Honest about being a single-node demonstration, not a distributed network.
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -210,9 +221,9 @@ Not everything I build is public. Two projects I'm especially proud of:
 ## Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-29-0A66C2?style=for-the-badge" alt="Repos" />
-  <img src="https://img.shields.io/badge/Featured_Projects-6-6C3FC6?style=for-the-badge" alt="Projects" />
-  <img src="https://img.shields.io/badge/Live_on_Vercel-5-2E9E6B?style=for-the-badge" alt="Live" />
+  <img src="https://img.shields.io/badge/Public_Repos-26-0A66C2?style=for-the-badge" alt="Repos" />
+  <img src="https://img.shields.io/badge/Featured_Projects-7-6C3FC6?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/Live_on_Vercel-6-2E9E6B?style=for-the-badge" alt="Live" />
   <img src="https://img.shields.io/badge/Data_Points_Trained-1M%2B-F2B705?style=for-the-badge&logoColor=black" alt="Data" />
 </p>
 
